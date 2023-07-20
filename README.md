@@ -1,3 +1,3 @@
 # projone
 
-## I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
+## I made this on the remote
